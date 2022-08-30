@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div align="center">
-  <a href="https://github.com/DeadlyMouse90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ernanedomingues&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/ernaneDomingues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=ernanedomingues&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanedomingues&layout=compact&langs_count=8&theme=cobalt"/>
 </div>
  
