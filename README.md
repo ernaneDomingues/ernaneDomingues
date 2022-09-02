@@ -8,6 +8,7 @@ I learned to program using the C language while in college as a computer enginee
 
 * 🌍  I'm based in Brazil.
 * ✉️  You can contact me at [ernanedomingues@live.com](mailto:ernanedomingues@live.com)
+* 🧠  I'm learning Data Science and Artificial Intelligence
 
 ### Skills
 
