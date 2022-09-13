@@ -48,7 +48,9 @@ I learned to program using the C language while in college as a computer enginee
 
 <a href="http://www.github.com/ernaneDomingues"><img src="https://activity-graph.herokuapp.com/graph?username=ernaneDomingues&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+### Support Me
 
+<a href="https://www.buymeacoffee.com/ernaneDomingues"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
