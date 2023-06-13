@@ -4,7 +4,11 @@ Hi 👋 My name is Ernane Domingues
 Data Science and Artificial Intelligence
 ----------------------------------------
 
-I learned to program using the C language while in college as a computer engineer. After graduating I worked for 4 years with embedded software development and hardware design. After 2 years learning to develop in python, I fell in love with the language, mainly for the data science areas and the possibility to work with machine learning. Since then, I have been studying more and more and doing projects in the area.
+During my undergraduate degree in Computer Engineering, I acquired programming skills using the C language. After graduating, I worked for four years on embedded software development and hardware design. It was during this period that I had the opportunity to improve my skills and knowledge in this area.
+
+However, my interest in programming went further, and I decided to explore new languages. That is when I started learning Python and fell in love with this versatile language. I was especially fascinated by the areas of data science and artificial intelligence, and the opportunity to work with computer vision.
+
+Over the past few years I have been studying and improving this knowledge, doing projects, and expanding my experience in these areas. I am excited to continue to grow in this field and explore the exciting possibilities that data science and machine learning have to offer.
 
 * 🌍  I'm based in Brazil.
 * ✉️  You can contact me at [ernanedomingues@live.com](mailto:ernanedomingues@live.com)
