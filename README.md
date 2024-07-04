@@ -1,14 +1,18 @@
 Hi 👋 My name is Ernane Domingues
 =================================
 
-Data Science and Artificial Intelligence
+Machine Learning Engineer | Data Science | Python | Deep learning | Machine Learning | AWS | Azure | PyTorch | Pandas | TensorFlow | Keras | Docker | NumPy | Scikit-learn | OpenCV | TDD
 ----------------------------------------
 
-During my undergraduate degree in Computer Engineering, I acquired programming skills using the C language. After graduating, I worked for four years on embedded software development and hardware design. It was during this period that I had the opportunity to improve my skills and knowledge in this area.
+Hello! I am a computer engineer with dual Brazilian and Portuguese nationality, and I graduated in 2014. My career journey began as an Embedded Systems Engineer, where I spent four years developing cutting-edge hardware and software. This period allowed me to build a robust foundation in technical knowledge and practical integration of complex systems.
 
-However, my interest in programming went further, and I decided to explore new languages. That is when I started learning Python and fell in love with this versatile language. I was especially fascinated by the areas of data science and artificial intelligence, and the opportunity to work with computer vision.
+In 2019, I transitioned to Data Science and Artificial Intelligence, driven by a deep curiosity and passion for these fields. Since then, I have been dedicated to uncovering valuable insights from data using tools like Python, TensorFlow, Keras, and PyTorch. My focus has been on creating machine learning models and intelligent solutions, particularly in the realm of computer vision.
 
-Over the past few years I have been studying and improving this knowledge, doing projects, and expanding my experience in these areas. I am excited to continue to grow in this field and explore the exciting possibilities that data science and machine learning have to offer.
+Computer vision, a fascinating domain within AI, has been at the core of my recent projects. I am committed to continuous learning, constantly refining my expertise to stay ahead in this rapidly evolving sector. Additionally, I am proficient in databases such as PostgreSQL, MongoDB, and Redis, and I am well-versed in cloud technologies like AWS and Azure. These skills enable me to manage and manipulate vast data sets effectively, ensuring scalable and powerful solutions.
+
+I am always eager for collaborations, challenging projects, and opportunities that leverage my analytical skills and experience in data processing. If you are looking for a dedicated professional to enhance your project’s success, I am at your service.
+
+Let’s connect and explore how we can distill valuable insights from data and drive innovation forward together!
 
 * 🌍  I'm based in Brazil.
 * ✉️  You can contact me at [ernanedomingues@live.com](mailto:ernanedomingues@live.com)
