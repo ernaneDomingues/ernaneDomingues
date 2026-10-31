@@ -1,69 +1,145 @@
-Hi 👋 My name is Ernane Domingues
-=================================
+# 👋 Hi, I'm Ernane Domingues
 
-Machine Learning Engineer | Data Science | Python | Deep learning | Machine Learning | AWS | Azure | PyTorch | Pandas | TensorFlow | Keras | Docker | NumPy | Scikit-learn | OpenCV | TDD
-----------------------------------------
+### AI Research Engineer | Generative AI | Deep Learning | Computer Vision
 
-Hello! I am a computer engineer with dual Brazilian and Portuguese nationality, and I graduated in 2014. My career journey began as an Embedded Systems Engineer, where I spent four years developing cutting-edge hardware and software. This period allowed me to build a robust foundation in technical knowledge and practical integration of complex systems.
+Exploring the intersection of **Artificial Intelligence, Research, and Engineering**.
 
-In 2019, I transitioned to Data Science and Artificial Intelligence, driven by a deep curiosity and passion for these fields. Since then, I have been dedicated to uncovering valuable insights from data using tools like Python, TensorFlow, Keras, and PyTorch. My focus has been on creating machine learning models and intelligent solutions, particularly in the realm of computer vision.
+I design, develop, and experiment with intelligent systems, focusing on Generative AI, Large Language Models, Multi-Agent Architectures, and Deep Learning.
 
-Computer vision, a fascinating domain within AI, has been at the core of my recent projects. I am committed to continuous learning, constantly refining my expertise to stay ahead in this rapidly evolving sector. Additionally, I am proficient in databases such as PostgreSQL, MongoDB, and Redis, and I am well-versed in cloud technologies like AWS and Azure. These skills enable me to manage and manipulate vast data sets effectively, ensuring scalable and powerful solutions.
+My background combines software engineering, electronics, and applied AI, allowing me to approach complex problems from both theoretical and practical perspectives.
 
-I am always eager for collaborations, challenging projects, and opportunities that leverage my analytical skills and experience in data processing. If you are looking for a dedicated professional to enhance your project’s success, I am at your service.
+---
 
-Let’s connect and explore how we can distill valuable insights from data and drive innovation forward together!
+## 🧠 About Me
 
-* 🌍  I'm based in Brazil.
-* ✉️  You can contact me at [ernanedomingues@live.com](mailto:ernanedomingues@live.com)
-* 🧠  I'm learning Computer Vision and Artificial Intelligence
+I'm an engineer with a background in Electronics and Computer Engineering, with professional experience spanning embedded systems, software development, machine learning, and artificial intelligence.
 
-### Skills
+My journey began in **Embedded Systems Engineering**, where I spent four years developing hardware-software solutions and working close to the intersection of electronics, firmware, and software architecture.
 
-<p align="left">
- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="Amazon Web Service" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="Numpy" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+In 2019, I transitioned into **Artificial Intelligence and Machine Learning**, driven by a growing interest in intelligent systems, computer vision, and the underlying technologies powering modern AI.
+
+Today, my interests extend beyond applying existing models. I'm particularly interested in understanding how AI systems work, exploring new architectures, experimenting with model training, and developing intelligent solutions.
+
+### Current Research & Technical Interests
+
+- **Generative AI & LLMs:** Model architectures, inference, fine-tuning, and LLM applications.
+- **RAG & Knowledge Systems:** Advanced retrieval architectures, knowledge representation, and contextual reasoning.
+- **Multi-Agent Systems:** Agent orchestration, collaborative reasoning, and autonomous workflows.
+- **Deep Learning:** Neural network architectures, optimization, and model experimentation.
+- **Computer Vision:** Image processing, visual recognition, and intelligent perception systems.
+- **AI Research:** Exploring new approaches to model architectures, decision-making, and intelligent systems.
+- **Extended Reality (XR):** Exploring the intersection of AI, spatial computing, and immersive environments.
+
+### 🧪 What I'm Working On
+
+I enjoy building projects that combine research, experimentation, and practical engineering.
+
+Some of my current areas of exploration include:
+
+- Developing multi-agent RAG architectures for complex software engineering workflows.
+- Experimenting with alternative neural network architectures and decision-oriented models.
+- Exploring efficient AI models and approaches to reduce computational requirements.
+- Building AI-powered applications and intelligent developer tools.
+- Investigating the future of spatial computing and AI-assisted development.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
 </p>
 
+### Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-### Socials
+### Generative AI & LLM Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge&logoColor=white" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/ernaneDomingues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ernane-domingues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Data Science & Processing
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-### Badges
+### Cloud, Infrastructure & Development
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/ernaneDomingues"><img src="https://github-readme-stats.vercel.app/api?username=ernaneDomingues&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="ernaneDomingues's GitHub stats" /></a>
+## 🔬 Featured Research & Projects
 
-<a href="http://www.github.com/ernaneDomingues"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ernaneDomingues&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I use GitHub as a space to document experiments, build AI systems, explore new ideas, and share knowledge.
 
-<a href="https://github.com/ernaneDomingues" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernaneDomingues&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+My focus is on projects involving:
 
-<a href="http://www.github.com/ernaneDomingues"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ernaneDomingues&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- **Neural Network Architectures:** Experimenting with alternative model designs and training approaches.
+- **Decision Models:** Exploring neural architectures designed around structured decision-making.
+- **Multi-Agent AI:** Building collaborative agent systems and advanced RAG pipelines.
+- **Computer Vision:** Developing intelligent visual processing and recognition systems.
+- **AI Engineering:** Creating tools, frameworks, and infrastructure for AI applications.
 
+More experiments and research projects coming soon.
 
-### Support Me
+---
 
-<a href="https://www.buymeacoffee.com/ernaneDomingues"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## 🌐 Connect With Me
 
+<p>
+  <a href="https://www.linkedin.com/in/ernane-domingues">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ernaneDomingues">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ernanedomingues@live.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+📍 Brazil | Brazilian & Portuguese nationality
 
+📧 [ernanedomingues@live.com](mailto:ernanedomingues@live.com)
 
- 
+---
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ernaneDomingues&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernaneDomingues&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernaneDomingues&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Research. Experiment. Build. Understand.</i>
+</p>
