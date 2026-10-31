@@ -130,12 +130,12 @@ More experiments and research projects coming soon.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernaneDomingues&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ernaneDomingues&rank_icon=github&custom_title=GitHub%20Stats&include_all_commits=true&theme=dark_github" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernaneDomingues&theme=transparent&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernaneDomingues&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ernaneDomingues&layout=donut&langs_count=4&theme=dark_github" />
 </p>
 
 ---
